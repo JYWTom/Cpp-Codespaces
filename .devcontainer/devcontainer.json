@@ -1,0 +1,6 @@
+{
+  "name": "C++ Template",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
